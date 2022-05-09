@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Philanthro",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
